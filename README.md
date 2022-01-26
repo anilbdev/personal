@@ -11,8 +11,7 @@
 This is a sample  responsive portfolio website.
 
   
-
->  **You can view the Web app here**  [Click me](https://anilbdev.github.io/personal/
+**You can view the Web app here**  [Click here](https://anilbdev.github.io/personal/)
 
   
 
